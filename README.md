@@ -3,5 +3,5 @@
 ## How to start
 
 1. Go to the project directory
-2. `yarn install`
-3. `yarn start`
+2. `npm install`
+3. `npm start`
